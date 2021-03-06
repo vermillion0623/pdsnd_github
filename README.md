@@ -4,14 +4,14 @@
 6th/Mar/2021 
 
 ### Project Title
-Udacity's GitHub 
+Data Analysis of Bike Sharing 
 
 ### Description
-Project of Udacity's GitHub 
+This project analyze data which is collected from Bikeshare. 
 
 ### Files used
-bikeshare.py
+bikeshare.py, chicago.csv, washington.csv, new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This is the part of Udacity's GitHub nano degree(Programming_for_Data_Science)
 
