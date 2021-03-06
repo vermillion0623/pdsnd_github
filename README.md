@@ -4,11 +4,11 @@
 6th/Mar/2021
 
 ### Project Title
-Bike Shareing Data Analysis
+Data Analysis of Bike Sharing 
 
 ### Description
 This project(.py) analyze data(.csv) which is collected from Bikeshare. 
-(Refactoring version)
+After analyzing, some statistic user information is outputed.
 
 ### Files used
 <.py>:bikeshare.py, <.csv> chicago.csv, new_york_city.csv, washington.csv
