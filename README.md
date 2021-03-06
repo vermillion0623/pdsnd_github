@@ -8,6 +8,7 @@ Data Analysis of Bike Sharing
 
 ### Description
 This project analyze data which is collected from Bikeshare. 
+Statistic User information is outputed.
 
 ### Files used
 bikeshare.py, chicago.csv, washington.csv, new_york_city.csv
