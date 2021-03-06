@@ -4,14 +4,15 @@
 6th/Mar/2021
 
 ### Project Title
-Bike Shareing Data Analysis 
+Bike Shareing Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project(.py) analyze data(.csv) which is collected from Bikeshare. 
+(Refactoring version)
 
 ### Files used
-Include the files used
+<.py>:bikeshare.py, <.csv> chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This is the part of Udacity's GitHub nano degree(Programming_for_Data_Science)
 
